@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://raw.githubusercontent.com/BB20011103/BB20011103/refs/heads/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/BB20011103/BB20011103/refs/heads/output/github-contribution-grid-snake.svg)
 <!--
 **BB20011103/BB20011103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
